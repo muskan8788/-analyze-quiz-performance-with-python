@@ -1,0 +1,23 @@
+{
+    "user_id": 123,
+    "quizzes": [
+        {
+            "quiz_id": 111,
+            "score": 12,
+            "total_score": 20,
+            "responses": {
+                "1": {"selected_option": 2, "correct": true},
+                "2": {"selected_option": 3, "correct": false}
+            }
+        },
+        {
+            "quiz_id": 112,
+            "score": 18,
+            "total_score": 20,
+            "responses": {
+                "1": {"selected_option": 1, "correct": true},
+                "2": {"selected_option": 4, "correct": true}
+            }
+        }
+    ]
+}

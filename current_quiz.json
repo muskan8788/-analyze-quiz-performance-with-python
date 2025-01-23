@@ -1,0 +1,12 @@
+
+
+{
+  "user_id": 123,
+  "quiz_id": 456,
+  "questions": [
+    {"id": 1, "topic": "Physics", "difficulty": "Medium", "correct": false},
+    {"id": 2, "topic": "Chemistry", "difficulty": "Hard", "correct": true}
+  ],
+  "score": 15,
+  "total_score": 20
+}
